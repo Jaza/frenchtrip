@@ -1,0 +1,22 @@
+/* This style sheet written by Jeremy Epstein. Copyright 2001 Jeremy Epstein */
+
+/* For help with creating style sheets, visit http://www.jalfrezi.com/ */ 
+
+P {font-family: Arial, Times New Roman; font-size: 12pt; color: 000000; font-style: normal;} 
+
+CITE {font-family: Arial, Times New Roman; font-size: 12pt; color: 000000; font-style: normal;} 
+
+UL {font-family: Arial, Times New Roman; font-size: 12pt; color: 000000; font-style: normal;} 
+
+LI {list-style-image: url(images/ball.gif);}
+
+TD, TH {font-family: Arial, Times New Roman; font-size: 12pt; color: 000000; font-style: normal;}
+
+H1, H2, H3, H4, H5, H6 {font-family: Lucida Calligraphy, Mistral; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; color: 800000;} 
+
+BODY {background: FFFFFF;} 
+
+A:HOVER {color: 400040; text-decoration: none; background-color: FFFFC0;} 
+A:LINK {color: 400040; text-decoration: none;} 
+A:VISITED {color: 400040; text-decoration: none;} 
+A:ACITVE {color: 400040; text-decoration: none;}
